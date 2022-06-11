@@ -1,0 +1,88 @@
+{
+  "library": [
+    {
+      "id": "lib1",
+      "title": "South Naravoor vayanshala",
+      "location": "naravoor mooriyad road",
+      "contactInfo": "+911234578789",
+      "img": "../library.jpg"
+    },
+    {
+      "id": "lib2",
+      "title": "Naravoor vayanshala",
+      "location": "naravoor mooriyad road",
+      "contactInfo": "+911234578789",
+      "img": "../library.jpg"
+    }
+  ],
+  "shops": [
+    {
+      "id": "shp1",
+      "title": "Vanshala",
+      "location": "naravoor",
+      "contactInfo": "+911234578789",
+      "img": "../shop1.jpg"
+    },
+    {
+      "id": "shp1",
+      "title": "Kootapedika",
+      "location": "Roshan road",
+      "contactInfo": "+911234578789",
+      "img": "../shop2.jpg"
+    }
+  ],
+  "schools": [
+    {
+      "id": "sch1",
+      "title": "Naravoor LP school",
+      "location": "South Naravoor",
+      "contactInfo": "+911234578789",
+      "img": "../school.jpeg"
+    }
+  ],
+  "taxi": [
+    {
+      "id": "tx1",
+      "title": "Roshan auto driver",
+      "location": "South Naravoor",
+      "contactInfo": "+911234578789"
+    },
+    {
+      "id": "tx1",
+      "title": "Rajeevan auto driver",
+      "location": "South Naravoor",
+      "contactInfo": "+911234578789"
+    }
+  ],
+  "temple": [
+    {
+      "id": "tmp1",
+      "title": "Naravoor Sri Mahavishnu Temple",
+      "location": "Naravoor Sri Mahavishnu Temple Naravoor",
+      "contactInfo": "+911234578789",
+      "link": "https://www.naravoorsrimahavishnutemple.com/"
+    },
+    {
+      "id": "tmp2",
+      "title": "Sri Thaikkandi Madappura",
+      "location": "Pookod-Cheruvanchery Road, Kerala 670691, India",
+      "contactInfo": "+91 94475 50036",
+      "img": "../thaikkandi.jpeg",
+      "link": "https://www.facebook.com/%E0%B4%B6%E0%B5%8D%E0%B4%B0%E0%B5%80-%E0%B4%A4%E0%B5%88%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B4%BF-%E0%B4%AE%E0%B4%9F%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%B0-649426495121575/?ref=page_internal"
+    }
+  ],
+  "electrician": [
+    {
+      "id": "elc1",
+      "title": "Vijeesh - Plumber & Electrician",
+      "location": "Naravoor",
+      "contactInfo": "+911234578789"
+    },
+    {
+      "id": "elc2",
+      "title": "Anil - Plumber",
+      "location": "Naravoor",
+      "contactInfo": "+911234578789"
+    }
+  ]
+}
